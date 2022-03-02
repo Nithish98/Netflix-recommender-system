@@ -22,3 +22,6 @@ if  A  is of dimensions  N×M  then
 U is of  N×k ,
 ∑  is of  k×k  and
 V  is  M×k  dimensions.
+
+
+predicted(yij) = μ+bi+cj+dot_product(ui,vj)
