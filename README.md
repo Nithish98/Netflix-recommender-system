@@ -25,3 +25,8 @@ V  is  M×k  dimensions.
 
 
 predicted(yij) = μ+bi+cj+dot_product(ui,vj)
+
+
+## Reference/Source
+
+https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf
